@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Morgan's Website
 
-You can use the [editor on GitHub](https://github.com/Morganfay3/Morganfay3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I enjoy looking at pigs. :)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
